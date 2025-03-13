@@ -1,0 +1,30 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+Cargo.lock
+
+
+# Output files
+/output/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.env
+
+# Debug files
+*.log
+*.trace
+
+# Backup files
+*~
+*.bak
+
+# System files
+.directory
+.Trash-*
+$RECYCLE.BIN/
+System Volume Information/
